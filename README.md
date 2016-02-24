@@ -10,6 +10,6 @@ Hit SPACE to start the stopwatch.
 
 Hit anything-other-than-SPACE to add an event :)
 
-To reset the stopwatch, RESTART IT...  I AM A LAZY MAN
+The events are cleared each time you restart the stopwatch.
 
 
